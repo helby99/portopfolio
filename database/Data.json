@@ -1,0 +1,126 @@
+{
+    "Header" : [
+        {
+            "navbar" : [
+                {
+                    "title" : "Home",
+                    "link" : "#Home"
+                },
+                {
+                    "title" : "Album",
+                    "link" : "#Album"
+                },
+                {
+                    "title" : "About",
+                    "link" : "#About"
+                },
+                {
+                    "title" : "Contact",
+                    "link" : "#Contact"
+                }
+            ],
+            "account" : [
+                {
+                    "text" : "Login",
+                    "link" : "#"
+                },
+                {
+                    "text" : "Sign-Up",
+                    "link" : "#"
+                }
+            ]
+        }
+        
+    ],
+    "Body" : [
+        {
+            "banner" : [
+                {
+                    "title" : "Helby Mangga L",
+                    "desc" : "PROGRAMMER | UI/UX | FULL STACK DEVELOPMENT"
+                },
+                {
+                    "image" : "/image/4.jpeg"
+                },
+                {
+                    "image" : "/image/5.jpeg"
+                }
+            ],
+            "album" :[
+                {
+                    "title" : "Album"
+                },
+                {
+                    "image" : "/image/1.jpeg",
+                    "insideText" : "Do your best at all the opportunities you have."
+                },
+                {
+                    "image" : "/image/2.jpeg",
+                    "insideText" : "The future belongs to those who prepare for today."
+                },
+                {
+                    "image" : "/image/3.jpeg",
+                    "insideText" : "Don't be afraid to make mistakes when studying because many successful people learn from mistakes."
+                }
+            ],
+            "about" : [
+                {
+                    "title" : "About",
+                    "desc" : "Hi Perkenalkan saya merupakan seorang mahasiswa STIKOM PGRI BANYUWANGI dengan jurusan Teknik Informatika. Kata-kata dari saya selama umur masih muda perbanyak belajar dan cari pengalaman sebanyak mungkin dan guru besar imam syafi i pernah berkata : Barangsiapa tidak mau merasakan pahitnya belajar, ia akan merasakan hinanya kebodohan sepanjang hidupnya."
+                },
+                {
+                    "image" : "/image/about.jpg"                
+				}
+            ],
+            "contact" : [
+                {
+                    "title" : "How Can We Help You?",
+                    "desc" : "Hubungi kami jika anda memiliki pertanyaan ^_^"
+                },
+                {
+                    "text" : "Your Name",
+                    "placeholder" : "your name"
+                },
+                {
+                    "text" : "Your Email",
+                    "placeholder" : "your email"
+                },
+                {
+                    "text" : "subject",
+                    "placeholder" : "subject"
+                },
+                {
+                    "text" : "Messsage",
+                    "placeholder" : "message"
+                },
+                {
+                    "buttonText" : "Submit Form"
+                }
+
+            ]
+        }
+    ],
+    "Footer" : [
+        {
+            "Coppyright" : [
+                {
+                    "text" : "© 2022 by helby. inc."
+                },
+                {
+                    "text" : "· Privacy",
+                    "link" : "#"
+                },
+                {
+                    "text" : "· Term",
+                    "link" : "#"
+                }
+            ],
+            "button" : [
+                {
+                    "text" : "Back to top",
+                    "link" : "#"
+                }
+            ]
+        }
+    ]
+}
