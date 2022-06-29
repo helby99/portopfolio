@@ -112,7 +112,7 @@ export default function Beranda(props) {
 }
 
 export async function getServerSideProps(context){
-  const localLink = "http://localhost:5000/"
+  const localLink = "https://database-port.herokuapp.com/"
   const onlineLink = ""
   const dataResponse = await fetch(localLink);
   const dataJson = await dataResponse.json();
